@@ -1,3 +1,1 @@
-## campusciff1 
-
-Organización creada.
+## Organización creada.
